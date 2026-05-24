@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an up and coming software engineer with a strong passion for programming and game design.
+Aidan is an up and coming software engineer with a strong passion for programming and game design. His journey started in elementary school when he joined a coding club that primarily used scratch. From this, he had gained basic knowledge in coding and game creation and eventually progressed to Roblox Studio. In this game engine, he developed a game that has to date accumulated over 200,000 visits. He also has knowledge in practical languages such as Python, HTML, CSS, JavaScript, and Java. In the future, Aidan hopes to explore artificial intelligence to expand his knowledge and cater towards the constantly evolving digital age.
 
 
 # 💻 Tech Stack:
