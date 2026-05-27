@@ -5,7 +5,7 @@ Aidan is an up and coming software engineer with a strong passion for programmin
 - 👯 I’m looking to collaborate on Roblox, being a solo developer is difficult
 - 🤔 I’m looking for help with broadening my scope by learning other languages or software
 - 💬 Ask me about anything programming related
-- 📫 How to reach me: My gmail or discord: winnerdraco
+- 📫 How to reach me: My gmail or discord - winnerdraco
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If it ain't broke, don't fix it.
 
