@@ -1,5 +1,5 @@
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
+  <!--  I stole this code -_- -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&pause=1000&duration=5000&color=7445F7C2&size=48&center=true&vCenter=true&width=1000&height=100&lines=Game+Developer+%7C+Software+Engineer;Testing+Testing+Check+Mic+Check;[Tuff+Github+Account];[6.7+Years+Of+Experience]" alt="Typing SVG" />
 </div>
@@ -23,7 +23,7 @@ Aidan is an up and coming software engineer with a strong passion for programmin
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aidan-fong&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=aidan-fong&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=aidan-fong&icon=0&color=fc7b03)](https://visitcount.itsvg.in)
 
 <!--
 **aidan-fong/aidan-fong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
