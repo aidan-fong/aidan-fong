@@ -1,7 +1,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Game+Developer+%7C+Software+Engineer;Testing+Testing+Check+Mic+Check;[Tuff+Github+Account];[6.7+Years+Of+Experience]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&lines=Game+Developer+%7C+Software+Engineer;Testing+Testing+Check+Mic+Check;[Tuff+Github+Account];[6.7+Years+Of+Experience]" alt="Typing SVG" />
 </div>
 
 # 💫 About Me:
