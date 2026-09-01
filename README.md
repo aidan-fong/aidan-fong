@@ -1,3 +1,9 @@
+<div align="center">
+  <!--  You can customize the typing text in the "lines=" section of the URL below -->
+  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Game+Developer+%7C+Software+Engineer;Testing+Testing+Check+Mic+Check;[Tuff+Github+Account];[6.7+Years+Of+Experience]" alt="Typing SVG" />
+</div>
+
 # 💫 About Me:
 Aidan is an up and coming software engineer with a strong passion for programming and game design. His journey started in elementary school when he joined a coding club that primarily used scratch. From this, he had gained basic knowledge in coding and game creation and eventually progressed to Roblox Studio. In this game engine, he developed a game that has to date accumulated over 300,000 visits. He also has knowledge in practical languages such as Python, HTML, CSS, JavaScript, and Java. In the future, Aidan hopes to explore artificial intelligence to expand his knowledge and cater towards the constantly evolving digital age.
 - 🔭 I’m currently working on my Roblox game: School Story
